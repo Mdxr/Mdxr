@@ -1,4 +1,4 @@
-# Mudasser Khan here, doing random sh*t 👋🏼:
+# Mudasser Khan here 👋🏼, doing random sh*t:
 🛜 moslty doing web, but really depends on the mood.
 
 
