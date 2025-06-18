@@ -4,7 +4,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-# Mudasser Khan here 👋🏼, doing random sh*t:
+# Mudasser Khan here 👋🏼, Doing random sh*t:
 🛜 moslty doing web, but really depends on the mood.
 
 ### 💻 Tech Stack:
